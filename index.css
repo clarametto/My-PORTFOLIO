@@ -1,0 +1,23 @@
+*{
+    text-decoration: none;
+}
+#navigation{
+    text-align: center;
+    padding: 20px;
+
+}
+.nav,a{
+padding: 20px;
+}
+
+.nav a{
+    padding: 15px 30px;
+    color: green;
+    font-size: 25px;
+ }
+ .nav a:hover{
+    padding: 15px 30px;
+    color: wheat;
+    background-color:blue;
+    border-radius: 10px;
+ }
