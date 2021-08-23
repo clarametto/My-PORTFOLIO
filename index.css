@@ -16,8 +16,11 @@ padding: 20px;
     font-size: 25px;
  }
  .nav a:hover{
-    padding: 15px 30px;
+    padding: 10px 30px;
     color: wheat;
     background-color:blue;
     border-radius: 10px;
  }
+
+ 
+ /* body --> */
