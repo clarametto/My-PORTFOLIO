@@ -18,7 +18,8 @@ padding: 20px;
  .nav a:hover{
     padding: 10px 30px;
     color:navy;
-    background-color:skyblue;
+    background-color: rgb(151, 177, 125);
+
     border-radius: 10px;
  }
 
