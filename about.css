@@ -1,0 +1,72 @@
+*{
+    text-decoration: none;
+}
+#navigation{
+    text-align: center;
+    padding: 20px;
+
+}
+.nav,a{
+padding: 20px;
+}
+
+.nav a{
+    padding: 15px 30px;
+    color: skyblue;
+    font-size: 25px;
+ }
+ .nav a:hover{
+    padding: 10px 30px;
+    color:navy;
+    background-color: rgb(151, 177, 125);
+
+    border-radius: 10px;
+ }
+
+
+ /* body --> */
+ #about{
+     height: auto;
+ }
+
+ .right{
+     width: 50%;
+    
+
+
+ }
+
+ .left{
+     width: 50%;
+     padding: 20px;
+     text-align: center;
+     color: skyblue;
+
+ }
+
+ .us{
+     display: flex;
+ }
+
+ #cla{
+     padding: 20px;
+     border-radius: 20px;
+ }
+ .right {
+     /* border: 5px solid; */
+     background-image: url("images/bry.jpeg");
+     height: 300px;
+     background-size: 100% 100%;
+     border-radius: 20px;
+     padding: 20px;
+     
+
+
+ }
+  body{
+      background-image: url("images/dropin.jpg");
+  }
+  .left p{
+      font-size: 23px;
+
+  }
