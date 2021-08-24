@@ -28,10 +28,10 @@ padding: 20px;
 
  body{
      background-color: rgba(0, 0, 0, 0.7);
-     background-image: url("images/hd.jpg");
+     background-image: url("images/desk.jpg");
      background-size: 100% 100%;
      background-repeat: no-repeat;
-     height: 630px;
+     height: auto;
  }
  #body{
      padding: 40px;
@@ -47,11 +47,20 @@ padding: 20px;
     border-radius: 100%;
 }
 p{
-    color: skyblue;
-    font-size: 20px;
+    color: rgb(151, 177, 125);
+
+    font-size: 30px;
+    font-weight: 100px;
 }
 h1{
     /* color:rgba(151, 177, 125, 0); */
-    color: rgb(151, 177, 125);
+    /* color: rgb(151, 177, 125); */
+    /* color: rgba(255, 0, 0, 0.24); */
+    color: white;
   
+}
+.font{
+background-color:rgba(0, 0, 0, 0.4);
+padding: 2%;
+border-radius: 20px;
 }
