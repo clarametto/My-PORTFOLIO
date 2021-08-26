@@ -25,6 +25,7 @@ padding: 20px;
 
 
  /* body --> */
+ 
 
  body{
      background-color: rgba(0, 0, 0, 0.7);
@@ -64,3 +65,4 @@ background-color:rgba(0, 0, 0, 0.4);
 padding: 2%;
 border-radius: 20px;
 }
+

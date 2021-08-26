@@ -1,6 +1,9 @@
 *{
     text-decoration: none;
 }
+body {
+    background-color: #696567;
+}
 #navigation{
     text-align: center;
     padding: 20px;
@@ -65,8 +68,55 @@ padding: 20px;
  }
   body{
       background-image: url("images/dropin.jpg");
+      height: auto;
+
   }
   .left p{
       font-size: 23px;
 
   }
+
+
+  /* <!-- portfolio --> */
+
+
+  #portfolio{
+    text-align: center;
+    color: skyblue;
+}
+
+  .project{
+      text-align: center;
+      display: flex;
+  }
+
+  .box{
+      padding: 20px;
+  }
+  h3{
+      color: wheat;
+  }
+  label{
+    color: white;
+
+}
+#contact{
+    text-align: center;
+
+}
+
+input{
+    margin-bottom: 1cm;
+    height: 2rem;
+    background-color: lightgray;
+    border-radius: 7px;
+
+}
+
+input[type=button]{
+    background-color: green;
+    border-radius: 7px;
+    color: white;
+    width: 10%;
+}
+
