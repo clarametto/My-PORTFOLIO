@@ -121,12 +121,14 @@ input{
 }
 
 input[type=button]{
-    background-color: #008000;
+    background-color: rgb(151, 177, 125);
     border-radius: 7px;
-    color: white;
+    color: black;
     width: 10%;
 }
-
+#value{
+    color: black;
+}
 /* service */
 
 #service h2{  color: white;
