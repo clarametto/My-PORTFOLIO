@@ -171,6 +171,13 @@ input[type=button]{
      
  }
  
+ .color h3{ color: black;
+
+ }
+
+ .color, h4{
+     color: skyblue;
+ }
 
 
 
