@@ -51,7 +51,9 @@ padding: 20px;
      color: skyblue;
 
  }
-
+ .left h1{
+     color: wheat;
+ }
  .us{
      display: flex;
  }
