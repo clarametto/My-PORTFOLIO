@@ -71,11 +71,11 @@ padding: 20px;
 
 
  }
-  body{
+  /* body{
       background-image: url("images/dropin.jpg");
       height: auto;
 
-  }
+  } */
   .left p{
       font-size: 23px;
 
@@ -151,8 +151,24 @@ input[type=button]{
 }
 .box{
     width: 100%;
+
 }
 
+
+/* tec */
+#tec h1{
+    text-align: center;
+
+}
+#box{display: flex;
+    padding: 30px;
+    
+
+}
+ .side1{
+     width: 70%;
+     
+ }
 
 
 
