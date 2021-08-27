@@ -13,6 +13,11 @@ body {
 padding: 20px;
 }
 
+.nav{
+    text-align: center;
+}
+
+
 .nav a{
     padding: 15px 30px;
     color: skyblue;
@@ -114,9 +119,20 @@ input{
 }
 
 input[type=button]{
-    background-color: green;
+    background-color: #008000;
     border-radius: 7px;
     color: white;
     width: 10%;
 }
 
+/* service */
+
+#service h2{ color: white;
+
+
+}
+
+#service{
+    text-align: center;
+}
+ 
