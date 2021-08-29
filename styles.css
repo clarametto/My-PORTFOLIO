@@ -186,12 +186,12 @@ input[type=button]{
     .service {
         flex-direction: column;
     }
-    #service {
+    #service,#about {
         margin: 3rem;
     }
     
 }
-@media screen  and (max-width:790px) {
+@media screen  and (max-width:875px) {
     .nav {
         display: flex;
         flex-direction: column;
@@ -210,6 +210,25 @@ input[type=button]{
         height: auto;
     }
 
+    
+}
+@media screen and (max-width:1030px){
+    .project {
+        flex-direction: column;
+        margin: 1rem;
+    }
+
+}
+
+@media screen and (max-width:730px){ 
+    .us,#box{
+        display: flex;
+        flex-direction: column;
+    }
+    .us>.left,.right,#box>.side1,.side2 {
+        width: 100%;
+
+    }
     
 }
 
