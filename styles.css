@@ -182,7 +182,36 @@ input[type=button]{
  .color, h4{
      color: skyblue;
  }
+@media screen and (max-width:1020px) {
+    .service {
+        flex-direction: column;
+    }
+    #service {
+        margin: 3rem;
+    }
+    
+}
+@media screen  and (max-width:790px) {
+    .nav {
+        display: flex;
+        flex-direction: column;
+    }
+    #service {
+        margin: 1rem;
+    }
+}
+@media screen and (max-width:370px){
+    .box {
+        padding: 5px;
+    }
+    .box #image {
+        width: 100%;
+        margin: 5px;
+        height: auto;
+    }
 
+    
+}
 
 
 
